@@ -1,7 +1,8 @@
 # Hello world!
 
 Thank you for viewing my profile!
-I'm Karolina, Front-end Enthusiast! 
+
+I'm Karolina, Front-end Passionate! 
 
 This autumn I will be MEng in Aviation. 
 
